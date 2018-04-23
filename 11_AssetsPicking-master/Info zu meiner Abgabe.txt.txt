@@ -1,0 +1,11 @@
+Sehr geehrter Herr Müller,
+
+leider ist meine Datei noch sehr Verbuggt.
+
+Durch Fehlende Erfahrung in C# und in Fusee, war es mir jetzt leider nicht möglich alles auszubügeln.
+Leider wurde auch kein Boden eingefügt, da ich Probleme hatte mit einer Plane in Blender hatte, da danach das Picking nicht mehr funktioniert hatte, und ich es irgendwie nicht mehr geschafft einen Boden direkt im Mesh Componant einzufügen.
+Ich hoffe die Abgabe ist trotzdem soweit in Ordnung das ich diese Abgabe als Bestanden angesehen wird.
+
+
+Mit freundlichen Grüßen
+Benedikt Grether

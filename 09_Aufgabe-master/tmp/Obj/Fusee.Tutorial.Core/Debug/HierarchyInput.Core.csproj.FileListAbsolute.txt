@@ -1,0 +1,6 @@
+C:\Users\Skippy\Documents\HFU\GitHub\Aufgabe_09\09_HierarchyAndInput\bin\Debug\Libraries\Assets\Dummy.txt
+C:\Users\Skippy\Documents\HFU\GitHub\Aufgabe_09\09_HierarchyAndInput\bin\Debug\Libraries\Fusee.Tutorial.Core.dll
+C:\Users\Skippy\Documents\HFU\GitHub\Aufgabe_09\09_HierarchyAndInput\bin\Debug\Libraries\Fusee.Tutorial.Core.pdb
+C:\Users\Skippy\Documents\HFU\GitHub\Aufgabe_09\09_HierarchyAndInput\tmp\Obj\Fusee.Tutorial.Core\Debug\HierarchyInput.Core.csprojResolveAssemblyReference.cache
+C:\Users\Skippy\Documents\HFU\GitHub\Aufgabe_09\09_HierarchyAndInput\tmp\Obj\Fusee.Tutorial.Core\Debug\Fusee.Tutorial.Core.dll
+C:\Users\Skippy\Documents\HFU\GitHub\Aufgabe_09\09_HierarchyAndInput\tmp\Obj\Fusee.Tutorial.Core\Debug\Fusee.Tutorial.Core.pdb

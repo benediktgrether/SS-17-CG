@@ -1,0 +1,6 @@
+C:\Users\Skippy\Documents\GitHub\Aufgabe_10\10_Mesh\tmp\Obj\Fusee.Tutorial.Core\Debug\Mesh.Core.csprojResolveAssemblyReference.cache
+C:\Users\Skippy\Documents\GitHub\Aufgabe_10\10_Mesh\bin\Debug\Libraries\Assets\Dummy.txt
+C:\Users\Skippy\Documents\GitHub\Aufgabe_10\10_Mesh\bin\Debug\Libraries\Fusee.Tutorial.Core.dll
+C:\Users\Skippy\Documents\GitHub\Aufgabe_10\10_Mesh\bin\Debug\Libraries\Fusee.Tutorial.Core.pdb
+C:\Users\Skippy\Documents\GitHub\Aufgabe_10\10_Mesh\tmp\Obj\Fusee.Tutorial.Core\Debug\Fusee.Tutorial.Core.dll
+C:\Users\Skippy\Documents\GitHub\Aufgabe_10\10_Mesh\tmp\Obj\Fusee.Tutorial.Core\Debug\Fusee.Tutorial.Core.pdb
